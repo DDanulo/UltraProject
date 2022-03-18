@@ -1,9 +1,13 @@
 <resources>
     <string name="app_name">UltraProject</string>
     <string name="Button_back">back</string>
+<<<<<<< HEAD
 
     <string name="Button_calculator">Calculator</string>
     <string name="Button_colorHelper">Color helper</string>
+=======
+    <string name="Button_fragment_calculator">Калькулятор</string>
+>>>>>>> 7f7b838 (test)
 
     <string name="Button_zero">0</string>
     <string name="Button_one">1</string>
@@ -24,7 +28,12 @@
     <string name="Button_percent">%</string>
     <string name="Button_equal">=</string>
     <string name="Button_coma">,</string>
+<<<<<<< HEAD
 
     <string name="EditText_search">Search</string>
 
+=======
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+>>>>>>> 7f7b838 (test)
 </resources>

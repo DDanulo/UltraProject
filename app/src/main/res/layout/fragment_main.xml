@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -33,3 +34,37 @@
         android:text="@string/Button_colorHelper" />
 
 </LinearLayout>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:id="@+id/Fragment_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NavigationFragment">
+
+    <Button
+        android:id="@+id/fragment_calculator_change"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="32dp"
+        android:text="@string/Button_fragment_calculator" />
+
+    <Button
+        android:id="@+id/bt_color_helper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fragment_calculator_change"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="32dp"
+        android:text="Color Helper" />
+
+</RelativeLayout>
+>>>>>>> 7f7b838 (test)

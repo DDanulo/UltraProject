@@ -17,3 +17,7 @@ public class MainActivity extends AppCompatActivity {
         ft.commit();
     }
 }
+<<<<<<< HEAD
+=======
+//test
+>>>>>>> 7f7b838 (test)
